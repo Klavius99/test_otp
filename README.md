@@ -9,10 +9,13 @@
 
 ## Configuration et manipulation a faire :
 
-_ composer install
-_ npm install
-_ creer le fichier .env et y coller le contenu de .env.example
-_ configurer la base donnée dans le fichier ".env" :
+<p>_ composer install </p>
+
+<p>_ npm install </p>
+
+<p>_ creer le fichier .env et y coller le contenu de .env.example</p>
+
+<p>_ configurer la base donnée dans le fichier ".env" : </p>
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -21,4 +24,4 @@ DB_DATABASE=nom_de_votre_base_de_donnees
 DB_USERNAME=votre_utilisateur
 DB_PASSWORD=votre_mot_de_passe
 
-_ php artisan key:generate
+<p>_ php artisan key:generate </p>
