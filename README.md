@@ -39,8 +39,8 @@ Configuration pour l'envoie d'email : <br>
 MAIL_MAILER=smtp <br>
 MAIL_HOST=smtp.gmail.com <br>
 MAIL_PORT=587 <br>
-MAIL_USERNAME=email@gmail.com <br>
+MAIL_USERNAME=tonemail@gmail.com <br>
 MAIL_PASSWORD=code_google <br>
 MAIL_ENCRYPTION=tls <br>
-MAIL_FROM_ADDRESS="fmouhamed238@gmail.com" <br>
+MAIL_FROM_ADDRESS="tonemail@gmail.com" <br>
 MAIL_FROM_NAME="Nom de l'application" <br>
