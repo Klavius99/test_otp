@@ -25,3 +25,22 @@ DB_USERNAME=votre_utilisateur <br>
 DB_PASSWORD=votre_mot_de_passe <br>
 
 <p>_ php artisan key:generate </p>
+
+clique dans ton compte google (logo si c'est sur PC) <br>
+Gerer parametres <br>
+Tape : Mots de passe d'application , puis clique dessus (...) <br>
+cree un nom , puis clique sur "creer" <br>
+copie le code et met dans "MAIL_PASSWORD=...met_le_ici... "<br>
+Le code de ne doit pas avoir d'espace <br>
+
+
+Configuration pour l'envoie d'email : <br>
+
+MAIL_MAILER=smtp <br>
+MAIL_HOST=smtp.gmail.com <br>
+MAIL_PORT=587 <br>
+MAIL_USERNAME=email@gmail.com <br>
+MAIL_PASSWORD=code_google <br>
+MAIL_ENCRYPTION=tls <br>
+MAIL_FROM_ADDRESS="fmouhamed238@gmail.com" <br>
+MAIL_FROM_NAME="Nom de l'application" <br>
