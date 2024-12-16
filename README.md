@@ -44,3 +44,7 @@ MAIL_PASSWORD=code_google <br>
 MAIL_ENCRYPTION=tls <br>
 MAIL_FROM_ADDRESS="tonemail@gmail.com" <br>
 MAIL_FROM_NAME="Nom de l'application" <br>
+
+php artisan migrate  <br>
+npm run dev <br>
+php artisan serve <br>
