@@ -18,10 +18,10 @@
 <p>_ configurer la base donnée dans le fichier ".env" : </p>
 
 DB_CONNECTION=mysql <br>
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=nom_de_votre_base_de_donnees
-DB_USERNAME=votre_utilisateur
-DB_PASSWORD=votre_mot_de_passe
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=nom_de_votre_base_de_donnees <br>
+DB_USERNAME=votre_utilisateur <br>
+DB_PASSWORD=votre_mot_de_passe <br>
 
 <p>_ php artisan key:generate </p>
