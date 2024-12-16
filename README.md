@@ -17,7 +17,7 @@
 
 <p>_ configurer la base donnée dans le fichier ".env" : </p>
 
-DB_CONNECTION=mysql
+DB_CONNECTION=mysql <br>
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=nom_de_votre_base_de_donnees
